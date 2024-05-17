@@ -75,5 +75,6 @@ export const ContentSaveData = styled.div`
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    margin-bottom: .5em;
   }
 `;
